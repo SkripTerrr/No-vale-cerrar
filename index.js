@@ -1,8 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Lo se, Lo se, nada mejor que un si sincero')
-    aler('todos son gays')
+    alert('Lo se, Lo se, nada mejor que un si sincero PDD. todos son gays')
 });
 
 const noBtn = document.querySelector('#noBtn');
